@@ -5,7 +5,6 @@ const description =
   "A volunteer cybersecurity project focused on providing resources and services that improve safety across Discord.";
 
 export default {
-  base: "/docs/",
   title,
   description,
   head: [

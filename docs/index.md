@@ -28,7 +28,7 @@ Coming soon!
 :::
 
 FishFish is home to an API allowing easy access to our phishing-domain database.
-API documentation can be found [here](/api).
+API documentation can be found [here](./api).
 
 Features:
 
